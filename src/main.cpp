@@ -11,7 +11,7 @@ int main()
     
     // PARAMETERS
     bool parabola = false;
-    bool variable_speed = true;
+    bool variable_speed = false;
 
 
     unsigned int width = 800;
