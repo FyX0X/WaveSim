@@ -88,6 +88,5 @@ Contributions are welcome!
 ---
 
 ## 📄 License
-The project is under MIT Licence.
 
 This project is licensed under the MIT License – see [LICENSE](LICENSE).  
