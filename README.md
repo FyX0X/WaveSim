@@ -90,3 +90,5 @@ Contributions are welcome!
 ## 📄 License
 
 This project is licensed under the MIT License – see [LICENSE](LICENSE).  
+
+This project uses [SFML](https://www.sfml-dev.org/).
